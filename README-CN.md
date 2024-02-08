@@ -8,6 +8,6 @@
 
 |描述|链接|
 |:-:|:-:|
-|`Emoji.js` cheat sheet|[./lib/emojis/support-cn.html](./lib/emojis/support-cn.html)|
+|`Emoji.js` cheat sheet|[https://dilemmagx.github.io/extension-docs/lib/emojis/support-cn.html](https://dilemmagx.github.io/extension-docs/lib/emojis/support-cn.html)|
 
 </div>

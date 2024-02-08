@@ -8,6 +8,6 @@ Docs and supports of my Scratch extensions
 
 |Info|URL|
 |:-:|:-:|
-|`Emoji.js` cheat sheet|[./lib/emojis/support-en.html](./lib/emojis/support-en.html)|
+|`Emoji.js` cheat sheet|[https://dilemmagx.github.io/extension-docs/lib/emojis/support-en.html](https://dilemmagx.github.io/extension-docs/lib/emojis/support-en.html)|
 
 </div>
